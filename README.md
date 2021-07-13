@@ -3,7 +3,7 @@ A Video Chat app
 
 
 Features 
-.Multi-Participant video conference
+.Multi-Participant video conference\n
 .Toggling of video stream
 .Toggling of audio stream(mute and unmute)
 .Textchat
